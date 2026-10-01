@@ -81,3 +81,7 @@ Outputs are mostly printed in the notebook.
 Commands to export simulation run data are included but commented out by default.
 Most cells should take no more than a few seconds to run, with some of the heavier analysis taking somewhat longer.
 The cell "Run simulations with range of total times/Generate data" may take around an hour to run, depending on the size of the largest network generated.
+
+# LICENSE
+
+This repository is licensed under the terms of the Creative Commons BY-NC 4.0 License.
